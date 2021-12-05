@@ -2,6 +2,7 @@
 Coupe of facts-
 * Power user of notion
 * Using notion for documenting Tasks, Documents and Personal Articles
+---
 Personally for me a view of github.com commit history really gives a kicker to be more active and go for that last mile.
 Not sure what I'm talking about take a look below:
 ![GitHubCommit History](https://user-images.githubusercontent.com/1132436/144729767-97af01d4-c749-4646-9da3-548972730dda.png)
